@@ -1,4 +1,5 @@
 ultralytics
 opencv-python
+Pillow
+matplotlib
 numpy
-torch
